@@ -7,6 +7,12 @@ Data and code for some data analytics concerning occupational licensing, with a 
 2. Begin writing TeX file to accompany what I am doing, explaining the methodology and sources (will use Pandoc to later convert to docx)
 
 
+# Notes
+
+It seems like some education data can be read from the `educationdata` library from the Urban Institute. I still need to assemble a dataset for 
+changes in licensing requirements for my desired professions.
+
+
 **Disclaimer: This repository is part of my work with the Grassroot Institute of Hawaii, certain things (aside from API keys and the like) will be made private as a result.**
 
 
