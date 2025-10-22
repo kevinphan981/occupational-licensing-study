@@ -24,4 +24,4 @@ completions_cosme <- left_join(completions_cosme, directory_data, by = c('UNITID
 
 cosmetics_agg <- completions_cosme %>%
   group_by(fips) %>%
-  reframe(total_completions = sum(CTOTALT), na.rm = T)
+  reframe(total_completions = sum(CTOTALT, na.rm = T))
