@@ -35,6 +35,8 @@ changes in licensing requirements for my desired professions. It works for certa
 is the data that I need the most for this project.
 
 
+I aim to investigate the effects of occupational licensing in specific professions (notably cosmetology, plumbing, and electrician-related trades) through a variety of channels. In particular, I leverage changes in training hours, reciprocity, and apprenticeship hours in a staggered difference in differences design to investigate their effects on a variety of demographic factors and economic variables. The study will use the data from the CPS and other IPUMS data sources from 2010 to 2023 to see if changes in licensing requirements has a causal effect on wages/income, employment, poverty, and demographic changes within the industry. The data from IPUMS will be essential to carry out this project, as there is no other survey that provides economic data at such a granular level with information related to occupational licensing. 
+
 **Disclaimer: This repository is part of my work with the Grassroot Institute of Hawaii, certain things (aside from API keys and the like) will be made private as a result.**
 
 
